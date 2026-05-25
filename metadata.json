@@ -1,0 +1,6 @@
+{
+  "name": "RGB to CMYK",
+  "description": "A design and print utility to convert RGB images to the CMYK color space, inspect distinct separation channels, pick color values, and export files.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
